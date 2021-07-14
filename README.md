@@ -1,2 +1,2 @@
 # Animals
-- Preliminary version of the Animal Information app.
+- Preliminary version of the Animal app.
